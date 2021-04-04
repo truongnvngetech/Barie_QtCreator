@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>pic/anh_login.jpg</file>
+        <file>pic/data.png</file>
+        <file>pic/data_add.png</file>
+        <file>pic/hdsd.png</file>
+        <file>pic/info.jpg</file>
+        <file>pic/report.png</file>
+        <file>pic/setting.png</file>
+        <file>pic/setting_server.jpg</file>
+        <file>pic/form_main.ico</file>
+    </qresource>
+</RCC>
